@@ -1,5 +1,5 @@
 import UIKit
-
+// ... ok ..
 class ViewController: UIViewController {
     var buttonCount = 0
     @IBOutlet weak var myLabel: UILabel!
@@ -18,7 +18,8 @@ class ViewController: UIViewController {
             myLabel.text = "You hit it more than 15 times!"
         }
     }
-
+// hello i like cheese
+    // i hate cheese 
     override func viewDidLoad() {
         super.viewDidLoad()
     }
